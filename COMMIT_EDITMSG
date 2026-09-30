@@ -1,0 +1,82 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .vscode/tasks.json
+#	new file:   c_60_programs_notebook/.gitignore
+#	new file:   c_60_programs_notebook/.vscode/tasks.json
+#	new file:   c_60_programs_notebook/README.md
+#	new file:   c_60_programs_notebook/day01_program01_print_name.c
+#	new file:   c_60_programs_notebook/day01_program02_print_three_lines.c
+#	new file:   c_60_programs_notebook/day02_program03_read_display_age.c
+#	new file:   c_60_programs_notebook/day02_program04_read_two_numbers.c
+#	new file:   c_60_programs_notebook/day03_program05_add_two_numbers.c
+#	new file:   c_60_programs_notebook/day03_program06_subtract_two_numbers.c
+#	new file:   c_60_programs_notebook/day04_program07_multiply_two_numbers.c
+#	new file:   c_60_programs_notebook/day04_program08_quotient_remainder.c
+#	new file:   c_60_programs_notebook/day05_program09_area_of_rectangle.c
+#	new file:   c_60_programs_notebook/day05_program10_perimeter_of_rectangle.c
+#	new file:   c_60_programs_notebook/day06_program11_celsius_to_fahrenheit.c
+#	new file:   c_60_programs_notebook/day06_program12_average_of_three.c
+#	new file:   c_60_programs_notebook/day07_program13_even_or_odd.c
+#	new file:   c_60_programs_notebook/day07_program14_divisible_by_5.c
+#	new file:   c_60_programs_notebook/day08_program15_positive_negative_zero.c
+#	new file:   c_60_programs_notebook/day08_program16_voting_age.c
+#	new file:   c_60_programs_notebook/day09_program17_larger_of_two.c
+#	new file:   c_60_programs_notebook/day09_program18_smaller_of_two.c
+#	new file:   c_60_programs_notebook/day10_program19_largest_of_three.c
+#	new file:   c_60_programs_notebook/day10_program20_smallest_of_three.c
+#	new file:   c_60_programs_notebook/day11_program21_multiple_of_3_and_5.c
+#	new file:   c_60_programs_notebook/day11_program22_number_between_10_and_50.c
+#	new file:   c_60_programs_notebook/day12_program23_nested_if_comparison.c
+#	new file:   c_60_programs_notebook/day12_program24_positive_even_number.c
+#	new file:   c_60_programs_notebook/day13_program25_ternary_positive_negative.c
+#	new file:   c_60_programs_notebook/day13_program26_ternary_even_odd.c
+#	new file:   c_60_programs_notebook/day14_program27_ternary_greater_number.c
+#	new file:   c_60_programs_notebook/day14_program28_ternary_absolute_value.c
+#	new file:   c_60_programs_notebook/day15_program29_bitwise_and.c
+#	new file:   c_60_programs_notebook/day15_program30_bitwise_or.c
+#	new file:   c_60_programs_notebook/day16_program31_bitwise_xor.c
+#	new file:   c_60_programs_notebook/day16_program32_bitwise_not.c
+#	new file:   c_60_programs_notebook/day17_program33_simple_interest.c
+#	new file:   c_60_programs_notebook/day17_program34_total_amount_simple_interest.c
+#	new file:   c_60_programs_notebook/day18_program35_compound_interest.c
+#	new file:   c_60_programs_notebook/day18_program36_square_and_cube.c
+#	new file:   c_60_programs_notebook/day19_program37_calculator_switch.c
+#	new file:   c_60_programs_notebook/day19_program38_day_number_switch.c
+#	new file:   c_60_programs_notebook/day20_program39_month_number_switch.c
+#	new file:   c_60_programs_notebook/day20_program40_vowel_or_consonant_switch.c
+#	new file:   c_60_programs_notebook/day21_program41_print_numbers_1_to_5.c
+#	new file:   c_60_programs_notebook/day21_program42_print_even_1_to_10.c
+#	new file:   c_60_programs_notebook/day22_program43_sum_1_to_10.c
+#	new file:   c_60_programs_notebook/day22_program44_multiplication_table.c
+#	new file:   c_60_programs_notebook/day23_program45_sum_of_even_numbers.c
+#	new file:   c_60_programs_notebook/day23_program46_count_down_10_to_1.c
+#	new file:   c_60_programs_notebook/day24_program47_factorial.c
+#	new file:   c_60_programs_notebook/day24_program48_sum_of_odd_numbers.c
+#	new file:   c_60_programs_notebook/day25_program49_reverse_a_number.c
+#	new file:   c_60_programs_notebook/day25_program50_count_digits.c
+#	new file:   c_60_programs_notebook/day26_program51_sum_of_digits.c
+#	new file:   c_60_programs_notebook/day26_program52_palindrome_number.c
+#	new file:   c_60_programs_notebook/day27_program53_maximum_of_five.c
+#	new file:   c_60_programs_notebook/day27_program54_minimum_of_five.c
+#	new file:   c_60_programs_notebook/day28_program55_percentage_of_five_subjects.c
+#	new file:   c_60_programs_notebook/day28_program56_grade_from_percentage.c
+#	new file:   c_60_programs_notebook/day29_program57_addition_using_function.c
+#	new file:   c_60_programs_notebook/day29_program58_square_using_function.c
+#	new file:   c_60_programs_notebook/day30_program59_even_odd_using_function.c
+#	new file:   c_60_programs_notebook/day30_program60_largest_of_three_function.c
+#	new file:   c_60_programs_notebook/dayyyyy.c
+#
+# Changes not staged for commit:
+#	deleted:    c_60_programs_notebook/.gitignore
+#
+# Untracked files:
+#	c_60_programs_notebook/dayyyyy.exe
+#	c_60_programs_notebook/program01.exe
+#
